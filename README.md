@@ -6,7 +6,7 @@
   ## Description
 
   This application already had a starter code to work with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, Express.js server and API & Node.js.
-  Link of live app: [Live App](https://book-search-live-deploy.herokuapp.com/)
+  Link of live app: [Live App](https://ccs-book-search-apollo.herokuapp.com/)
 
   ## Licensing
 
